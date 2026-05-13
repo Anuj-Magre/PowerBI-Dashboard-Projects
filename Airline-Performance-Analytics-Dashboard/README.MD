@@ -90,3 +90,5 @@ This project demonstrates skills in:
 
 ## 👤 Author
 Anuj Magre
+- Aspiring Data Analyst
+- Skilled in Power BI, SQL, Excel, and Python
