@@ -1,45 +1,74 @@
 # ✈️ Airline Performance Analytics Dashboard
 
 ## 📌 Project Overview
-This Power BI dashboard analyzes airline operations and business performance using key aviation metrics such as revenue, flight delays, passenger trends, and route profitability.
+This Power BI dashboard project analyzes airline operational and business performance using key aviation metrics such as revenue, passenger trends, delays, and route profitability.
 
-The dashboard helps stakeholders monitor operational efficiency and identify high-performing routes.
+The dashboard provides interactive insights that help understand airline efficiency, high-performing routes, and customer traffic patterns.
 
 ---
 
 ## 🎯 Objectives
-- Analyze airline revenue trends
+- Analyze airline revenue trends over time
 - Monitor average flight delays
 - Track passenger statistics
 - Identify the most profitable routes
-- Compare regional flight performance
+- Compare domestic and international performance
 
 ---
 
 ## 📊 Dashboard Features
-- Revenue Trend Analysis
-- Average Delay Monitoring
-- Route-wise Revenue Contribution
-- Passenger Insights
-- Most Profitable Route Identification
-- Domestic vs International Performance Comparison
+### ✅ KPI Cards
+- Total Revenue
+- Average Delay
+- Average Passengers per Flight
+- Most Profitable Route
 
----
+### ✅ Visualizations
+- Revenue Trend Over Time
+- Revenue Contribution by Route
+- Average Delay by Region
 
-## 🛠 Tools & Technologies
-- Power BI
-- DAX
-- Power Query
-- Data Modeling
-- Excel/CSV Dataset
+### ✅ Interactive Filters
+- Date Range Filter
+- Route Filter
+- Domestic & International Toggle
 
 ---
 
 ## 📈 Key Insights
 - DFW-SEA emerged as the most profitable route.
-- International flights experienced higher average delays compared to domestic flights.
-- Revenue showed fluctuations across different periods, indicating seasonal demand patterns.
-- Certain routes contributed significantly higher revenue than others.
+- International flights experienced higher average delays than domestic flights.
+- Revenue fluctuated across different periods, indicating seasonal demand patterns.
+- Some routes contributed significantly higher revenue than others.
+
+---
+
+## 🛠 Tools & Technologies Used
+- Power BI
+- DAX
+- Power Query
+- Data Modeling
+- CSV Dataset
+
+---
+
+## 📂 Project Structure
+
+```plaintext
+Airline-Performance-Analytics-Dashboard
+│
+├── Dashboard-Screenshot
+│   └── dashboard-preview.png
+│
+├── Dashboard
+│   └── Airline_Dashboard.pbix
+│
+├── Dataset
+│   ├── Clean_dataset.csv
+│   └── Raw_dataset.csv
+│
+└── README.md
+```
 
 ---
 
