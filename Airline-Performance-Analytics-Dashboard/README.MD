@@ -92,3 +92,15 @@ This project demonstrates skills in:
 Anuj Magre
 - Aspiring Data Analyst
 - Skilled in Power BI, SQL, Excel, and Python
+
+## 📬 Connect With Me
+
+LinkedIn  
+https://www.linkedin.com/in/anujmagre
+
+Email  
+anujmagre77@gmail.com
+
+---
+
+⭐ If you found this project useful, consider giving it a star.
