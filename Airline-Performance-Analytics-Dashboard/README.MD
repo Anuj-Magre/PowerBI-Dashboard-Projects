@@ -74,7 +74,7 @@ Airline-Performance-Analytics-Dashboard
 
 ## 📷 Dashboard Preview
 
-
+https://github.com/Anuj-Magre/PowerBI-Dashboard-Projects/blob/main/Airline-Performance-Analytics-Dashboard/Dashboard-Screenshot/dashboard-preview.png
 
 ---
 
